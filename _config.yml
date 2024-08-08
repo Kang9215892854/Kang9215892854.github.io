@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   하이요
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Kang9215892854.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: ':title/'
+permalink: ':title/'  
 blog_theme: light # Or use dark
 
 # Profile information
@@ -15,10 +15,9 @@ pic: minseong.png  # Place a 200x200 picture inside /assets/img/ folder and prov
 # Contact links
 email: dfhwasgfbqwo@gmail.com  # Add your Email address
 phone: 010 1234 5678 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
+website: www.youtube.com/?app=desktop&hl=ko&gl=KR # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: Kang9215892854 # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: sms6874 # Add your Github handle
 
 # Tracker
 analytics:
