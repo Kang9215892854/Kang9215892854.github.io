@@ -9,7 +9,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: 서민성
 tagline: 서민성
-about-description: 백수 # Add Discription
+about-description: 학생 # Add Discription
 pic: minseong.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
