@@ -1,4 +1,4 @@
-title: Kang Ji Min
+title: Seo Min Seong
 description: > # this means to ignore newlines until "baseurl:"
   하이요
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -7,14 +7,14 @@ permalink: ':title/'
 blog_theme: light # Or use dark
 
 # Profile information
-name: 강지민
-tagline: 강지민
+name: 서민성
+tagline: 백수
 about-description: 학생 # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: minseong.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: jimink2018@gmail.com  # Add your Email address
-phone: 010 4722 9430 # Add your Phone number
+email: dfhwasgfbqwo@gmail.com  # Add your Email address
+phone: 010 1234 5678 # Add your Phone number
 website: artemsheludko.pw # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: Kang9215892854 # Add your Github handle
@@ -38,7 +38,7 @@ assets:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
+  - README.mdd
 
 gems:
   - jekyll-feed
