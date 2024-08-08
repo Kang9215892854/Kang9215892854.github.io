@@ -8,9 +8,9 @@ blog_theme: light # Or use dark
 
 # Profile information
 name: 서민성
-tagline: 백수
-about-description: 학생 # Add Discription
-pic: minseong.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+tagline: 서민성
+about-description: 백수 # Add Discription
+pic: minseong.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: dfhwasgfbqwo@gmail.com  # Add your Email address
