@@ -8,7 +8,7 @@ blog_theme: light # Or use dark
 
 # Profile information
 name: 강지민
-tagline: 학생
+tagline: 강지민
 about-description: 학생 # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
